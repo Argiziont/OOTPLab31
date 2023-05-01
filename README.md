@@ -6,7 +6,11 @@ Develop a technical task. Show the decomposition of the task, where some of the 
 - Command.  
 
 Terms of reference.
-To develop a report generation system that can generate reports with different data sources, filters and visualizations in various formats, including CSV, PDF and HTML.
+Technical Task: Developing a Report Generation System for a Data Analytics Platform
+
+Overview:
+
+Our data analytics platform needs a robust report generation system that can produce reports with various data sources, filters, and visualizations in different formats. The system should be able to generate reports in CSV, PDF, and HTML formats, and it should allow users to customize the report's layout, content, and data sources.
 
 1.Design the architecture of the report generation system, including various components such as data sources, filters, visualizations, and export formats.
 
@@ -49,8 +53,11 @@ The code creates instances of various strategies and passes them to the ReportGe
 -	Спостерігач (Observer). 
 -	Команда (Command).  
 
-Технічне завдання
-Розробити систему генерації звітів, яка може створювати звіти з різними джерелами даних, фільтрами та візуалізаціями у різних форматах, включаючи CSV, PDF та HTML.
+Технічне завдання: Розробка системи генерації звітів для платформи аналітики даних
+
+Огляд:
+
+Наша платформа для аналізу даних потребує надійної системи генерації звітів, яка може створювати звіти з різними джерелами даних, фільтрами та візуалізаціями у різних форматах. Система повинна генерувати звіти у форматах CSV, PDF та HTML, а також дозволяти користувачам налаштовувати макет звіту, вміст та джерела даних.
 
 1.Розробити архітектуру системи генерації звітів, включаючи різні компоненти, такі як джерела даних, фільтри, візуалізації та формати експорту.
 
